@@ -26,3 +26,11 @@ I have made this prototype scatterplot/heatmap, which maps the longitude and lat
 
 ## Milestones
 Each week, I would like to come up with a new iteration of the viz, exploring how I can use different viz techniques in the same dataset to unlock new insights.
+
+
+## Update 1 (Week 6)
+I have tried to answer the question of "How does the price of a unit compare across its capacity?".
+After visualizing this, there is a clear upwards trend on the average price as the person capacity increases. However, maximum price for a 2/3 person unit is higher than a 4/5/6 person unit. This could be a due to "extreme luxury" rentals meant for couples getaways.
+https://vizhub.com/Camo651/90bec3308ff24ef8aa91ecedff0e38bc
+<img width="957" height="483" alt="Screenshot 2025-10-01 104221" src="https://github.com/user-attachments/assets/3165d469-e816-49ba-9f11-9ad76c014812" />
+
