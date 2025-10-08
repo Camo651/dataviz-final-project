@@ -34,3 +34,6 @@ After visualizing this, there is a clear upwards trend on the average price as t
 https://vizhub.com/Camo651/90bec3308ff24ef8aa91ecedff0e38bc
 <img width="957" height="483" alt="Screenshot 2025-10-01 104221" src="https://github.com/user-attachments/assets/3165d469-e816-49ba-9f11-9ad76c014812" />
 
+## Update 2 (Week 7)
+I have continued to explore the previous question. This week, I explored how distributions can be more effectively displayed. After some trial and error, the solution I came up with was to use a "scatterplot-like" system where each candlestick bar on the chart is not just a box, but a blob of points made up of each datapoint. This allows you to see the min/avg/max as before, but now the more detailed distribution of each candlestick on the plot.
+<img width="952" height="478" alt="Screenshot 2025-10-08 064259" src="https://github.com/user-attachments/assets/c24821de-72d9-4ecd-b2b5-2dc8a1c23353" />
