@@ -37,3 +37,8 @@ https://vizhub.com/Camo651/90bec3308ff24ef8aa91ecedff0e38bc
 ## Update 2 (Week 7)
 I have continued to explore the previous question. This week, I explored how distributions can be more effectively displayed. After some trial and error, the solution I came up with was to use a "scatterplot-like" system where each candlestick bar on the chart is not just a box, but a blob of points made up of each datapoint. This allows you to see the min/avg/max as before, but now the more detailed distribution of each candlestick on the plot.
 <img width="952" height="478" alt="Screenshot 2025-10-08 064259" src="https://github.com/user-attachments/assets/c24821de-72d9-4ecd-b2b5-2dc8a1c23353" />
+
+## Update 3 (Week 9)
+This week, I have added color as a way to visualize the data. Previously the chart showed the density of its listings by how "packed" the bar was at that point, but I was not happy with that as it was not a very accurate way to see the data, though it looked nice and conveyed other helpful information. This week, I switched the scatterplot style bars to be heatmap style bars, which show the density of listings across the Y axis. This immediately changes what the data shows, which is that the vast majority of listings fall around the cheaper 2-person type. This was not shown well previously. I ultimately choose to use a blue to yellow gradient to represent the density gradient for accessability reasons, as blue and yellow remain contrasting in normal vision and in the major variants of colorblindness.
+https://vizhub.com/Camo651/990cbdc9456245f4983543fcab127981
+<img width="1036" height="623" alt="Screenshot 2025-10-22 073427" src="https://github.com/user-attachments/assets/9bd8e141-b61e-4ab8-8db1-c2e8b377e9dd" />
