@@ -42,3 +42,8 @@ I have continued to explore the previous question. This week, I explored how dis
 This week, I have added color as a way to visualize the data. Previously the chart showed the density of its listings by how "packed" the bar was at that point, but I was not happy with that as it was not a very accurate way to see the data, though it looked nice and conveyed other helpful information. This week, I switched the scatterplot style bars to be heatmap style bars, which show the density of listings across the Y axis. This immediately changes what the data shows, which is that the vast majority of listings fall around the cheaper 2-person type. This was not shown well previously. I ultimately choose to use a blue to yellow gradient to represent the density gradient for accessability reasons, as blue and yellow remain contrasting in normal vision and in the major variants of colorblindness.
 https://vizhub.com/Camo651/990cbdc9456245f4983543fcab127981
 <img width="1036" height="623" alt="Screenshot 2025-10-22 073427" src="https://github.com/user-attachments/assets/9bd8e141-b61e-4ab8-8db1-c2e8b377e9dd" />
+
+## Update 4 (Week 10)
+This week I added interactivity to the viz in the form of selectors and a slider that allows the user to dynamically manipulate what is shown on the graph to make it easier to garner insignts from the chart.
+https://vizhub.com/Camo651/f72935e7972344f5b31d38b78164c6fa
+<img width="916" height="477" alt="image" src="https://github.com/user-attachments/assets/1bc602ec-1e66-4315-8e62-d777f8159b38" />
