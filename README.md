@@ -47,3 +47,8 @@ https://vizhub.com/Camo651/990cbdc9456245f4983543fcab127981
 This week I added interactivity to the viz in the form of selectors and a slider that allows the user to dynamically manipulate what is shown on the graph to make it easier to garner insignts from the chart.
 https://vizhub.com/Camo651/f72935e7972344f5b31d38b78164c6fa
 <img width="916" height="477" alt="image" src="https://github.com/user-attachments/assets/1bc602ec-1e66-4315-8e62-d777f8159b38" />
+
+## Update 5 (Week 11)
+This week I added more interactivity support, allowing for selecting multiple cities at once and having their data combined into 1 big viz. For polishing, I added a display map for the axis/filter names (not just raw column names), and put a title on the viz that dynamically updates to reflect what is being shown.
+https://vizhub.com/Camo651/65f8fb81e64c4429a73ec5c18add7108
+<img width="1332" height="862" alt="Screenshot 2025-11-05 081758" src="https://github.com/user-attachments/assets/38ee21c8-c92d-4e0a-9af8-c1f15157aa85" />
