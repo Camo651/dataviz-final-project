@@ -54,3 +54,9 @@ https://vizhub.com/Camo651/f72935e7972344f5b31d38b78164c6fa
 This week I added more interactivity support, allowing for selecting multiple cities at once and having their data combined into 1 big viz. For polishing, I added a display map for the axis/filter names (not just raw column names), and put a title on the viz that dynamically updates to reflect what is being shown.
 https://vizhub.com/Camo651/65f8fb81e64c4429a73ec5c18add7108
 <img width="1332" height="862" alt="Screenshot 2025-11-05 081758" src="https://github.com/user-attachments/assets/38ee21c8-c92d-4e0a-9af8-c1f15157aa85" />
+
+### Iteration 6
+##### (Week 12)
+This week I added a tooltip that shows the exact value the user is hovered over on the chat, as well as a sidebar with explanations for what each selectable attribute means in the context of Airbnb rentals.
+https://vizhub.com/Camo651/c566afe81b104ca9aaff06ade5600122
+<img width="1277" height="658" alt="image" src="https://github.com/user-attachments/assets/57f506f0-7df4-4acc-b8a7-8d1c73761d19" />
