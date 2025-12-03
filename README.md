@@ -60,3 +60,9 @@ https://vizhub.com/Camo651/65f8fb81e64c4429a73ec5c18add7108
 This week I added a tooltip that shows the exact value the user is hovered over on the chat, as well as a sidebar with explanations for what each selectable attribute means in the context of Airbnb rentals.
 https://vizhub.com/Camo651/c566afe81b104ca9aaff06ade5600122
 <img width="1277" height="658" alt="image" src="https://github.com/user-attachments/assets/57f506f0-7df4-4acc-b8a7-8d1c73761d19" />
+
+### Final Iteration
+##### (Week 15)
+This week, for the final iteration, I added per-column density calculations, logarithmic density scaling, and converted it to grayscale for clarity.
+https://vizhub.com/Camo651/1245d63438794011a9a7bdc7f2822022
+<img width="1269" height="710" alt="image" src="https://github.com/user-attachments/assets/32fbd7b1-2fc9-46d8-8468-2880cbfc242c" />
