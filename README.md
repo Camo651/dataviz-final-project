@@ -1,5 +1,6 @@
 # Airbnb Data Analysis
 #### A Practical Visualization Project
+https://www.youtube.com/watch?v=YtP8HAXOVpI
 
 ## The Dataset
 The data used for this project is a set collected from Zenodo, which catalogs attributes about Airbnb rental vacation homes throughout major cities in Europe.
